@@ -1,17 +1,20 @@
 # my-progress
-A collection of tutorials, courses and source materials to keep track of my improvement in software development. Feel free to look around.
+A collection of tutorials, courses and source materials to keep track of my improvement in software development. The table contains tutorial names and links. Below the table there is a short review about each tutorial and list of topics that it covers.
 
-| # |Name                                                                                                                                        | Completion Level |
-| -- | ------------------------------------------------------------------------------------------------------------------------------------------- | :--------------: |
-| 1. | [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)                                                  | 100%             |
-| 2. | [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://www.youtube.com/watch?v=DVRQoVRzMIY)                              | 100%             |
-| 3. | [How to use git and GitHub with PyCharm and any other IntelliJ IDE](https://www.youtube.com/watch?v=dBMHuIWbF_k)                            | 100%             |
-| 4. | [Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more](https://www.youtube.com/watch?v=qsTthZi23VE)      | 100%             |
-
+|     |Name                                                                                                                                         | Completion Level |
+|  -- | ------------------------------------------------------------------------------------------------------------------------------------------- | :--------------: |
+|  #  | **Git and GitHub**                                                                                                                          |                  |
+| 01. | [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)                                                  | 100%             |
+| 02. | [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://www.youtube.com/watch?v=DVRQoVRzMIY)                              | 100%             |
+| 03. | [How to use git and GitHub with PyCharm and any other IntelliJ IDE](https://www.youtube.com/watch?v=dBMHuIWbF_k)                            | 100%             |
+| 04. | [Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more](https://www.youtube.com/watch?v=qsTthZi23VE)      | 100%             |
+|  #  | **Python**                                                                                                                                  |                  |
+| 01. | [PY4E - Python for Everybody](https://www.py4e.com)                                                                                         | 80%              |
+| 02. | [Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?app=desktop&v=rfscVS0vtbw)                              | 100%             |
 
 # YouTube tutorials
 
-A collection of YT tutorials, video instructions, etc. about git, python and general programming. The list is updated as I discover more videos that I find useful. List is organized in the chronological order (i.e. the last video on the list is the last video I have watched about a certain topic.)
+A collection of YT tutorials, video instructions, etc. about git, python and general programming. The list is updated as I discover more videos that I find useful. List is organized in the chronological order (i.e. the last video on the list is the last video I have watched about a certain topic).
 
 ## Git
 
@@ -79,3 +82,43 @@ A collection of YT tutorials, video instructions, etc. about git, python and gen
     - Reflog
     - Submodules
     - Search & Find
+
+## Python
+
+1. [PY4E - Python for Everybody](https://www.py4e.com)
+
+    <img src="https://user-images.githubusercontent.com/37661642/148606816-6b3e608c-00f1-405d-8299-dbcba7e688bb.png" width="250"> <img src="https://user-images.githubusercontent.com/37661642/148606842-603aa96d-62b7-4da2-8646-e0d9963b96ff.png" width="250"> <img src="https://user-images.githubusercontent.com/37661642/148606856-109caba2-bed4-4cc2-8f0d-ea6983d8f573.png" width="250">
+    
+    A lot of theory and mostly exaples with databases for processing natural language (email extraction, spider, server connection...). Course is designed for beginners. It has     a lot of theory and it goes into details. Analogy used for the explanation is excellent.
+    
+    Some of the topics in the video are: 
+    - Variables, Expressions, and Statements
+    - Functions
+    - Loops and Iterations
+    - Strings
+    - Python Lists
+    - Dictionaries
+    - Tuples
+    - Regular Expressions
+    - Networked Programs
+    - Using Web Services
+    - Python Objects
+    - Databases
+    - Data Visualization
+
+2. [Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?app=desktop&v=rfscVS0vtbw)
+
+   <img src="https://user-images.githubusercontent.com/37661642/148607401-16689db8-956a-4fb7-a14d-1d8581d8580f.png" width="250"> <img src="https://user-images.githubusercontent.com/37661642/148607414-abbca2a3-c52c-4f98-8d54-21639ee45d28.png" width="250"> <img src="https://user-images.githubusercontent.com/37661642/148607426-a4079599-4709-4089-ab26-1a4393f12a37.png" width="250">
+
+    Covers python basics with examples. This tutorial is great for learning the python sytax through simple scripts that can be written in a very short time.
+    
+    Some of the topics in the video are: 
+    - Setup and Hello World
+    - Variables and Data Types
+    - Working with Strings, Numbers, Lists
+    - Loops
+    - Dictionaries
+    - Try/Except
+    - Reading Files and Writing to Files
+    - Classes and Objects
+    - Inheritance
