@@ -1,5 +1,5 @@
 # my-progress
-A collection of tutorials, courses and source materials to keep track of my improvement in software development. The table contains tutorial names and links. Below the table there is a short review about each tutorial and list of topics that it covers.
+A collection of tutorials, courses and source materials to keep track of my improvement in software development. The table contains a list of tutorials (with links included) that I have found useful. Below the table there is a short review about each tutorial and list of topics that it covers.
 
 |     |Name                                                                                                                                         | Completion Level |
 |  -- | ------------------------------------------------------------------------------------------------------------------------------------------- | :--------------: |
@@ -16,10 +16,11 @@ A collection of tutorials, courses and source materials to keep track of my impr
 
 A collection of YT tutorials, video instructions, etc. about git, python and general programming. The list is updated as I discover more videos that I find useful. List is organized in the chronological order (i.e. the last video on the list is the last video I have watched about a certain topic).
 
-## Git
+ <details>
+      <summary>Git</summary>
 
 1. [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
-
+  
     <img src="https://user-images.githubusercontent.com/37661642/148603549-6051b72b-6190-4151-9755-27cc0a65e009.png" width="250"> <img src="https://user-images.githubusercontent.com/37661642/148584180-1ee76a1c-56fa-4d95-99dc-d4477a549353.png" width="250"> <img src="https://user-images.githubusercontent.com/37661642/148584192-5531fcc4-9ae1-41e6-9336-a5ff1317248d.png" width="250">
 
     Git and GitHub basics. What is commit, push, branching, forking, pull requset. Examples done in Visual Studio Code.
@@ -82,8 +83,9 @@ A collection of YT tutorials, video instructions, etc. about git, python and gen
     - Reflog
     - Submodules
     - Search & Find
-
-## Python
+</details>
+<details>
+      <summary>Python</summary>
 
 1. [PY4E - Python for Everybody](https://www.py4e.com)
 
@@ -122,3 +124,4 @@ A collection of YT tutorials, video instructions, etc. about git, python and gen
     - Reading Files and Writing to Files
     - Classes and Objects
     - Inheritance
+</details>
