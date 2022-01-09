@@ -1,16 +1,16 @@
 # my-progress
 A collection of tutorials, courses and source materials to keep track of my improvement in software development. The table contains a list of tutorials (with links included) that I have found useful. Below the table there is a short review about each tutorial and list of topics that it covers.
 
-|     |Name                                                                                                                                         | Completion Level |
-|  -- | ------------------------------------------------------------------------------------------------------------------------------------------- | :--------------: |
-|  #  | **Git and GitHub**                                                                                                                          |                  |
-| 01. | [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)                                                  | 100%             |
-| 02. | [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://www.youtube.com/watch?v=DVRQoVRzMIY)                              | 100%             |
-| 03. | [How to use git and GitHub with PyCharm and any other IntelliJ IDE](https://www.youtube.com/watch?v=dBMHuIWbF_k)                            | 100%             |
-| 04. | [Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more](https://www.youtube.com/watch?v=qsTthZi23VE)      | 100%             |
-|  #  | **Python**                                                                                                                                  |                  |
-| 01. | [PY4E - Python for Everybody](https://www.py4e.com)                                                                                         | 80%              |
-| 02. | [Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?app=desktop&v=rfscVS0vtbw)                              | 100%             |
+|     |Name                                                                                                                                         
+|  -- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+|  #  | **Git and GitHub**                                                                                                                          |
+| 01. | [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)                                                  |
+| 02. | [Git Tutorial for Beginners - Git & GitHub Fundamentals In Depth](https://www.youtube.com/watch?v=DVRQoVRzMIY)                              |
+| 03. | [How to use git and GitHub with PyCharm and any other IntelliJ IDE](https://www.youtube.com/watch?v=dBMHuIWbF_k)                            |
+| 04. | [Advanced Git Tutorial - Interactive Rebase, Cherry-Picking, Reflog, Submodules and more](https://www.youtube.com/watch?v=qsTthZi23VE)      |
+|  #  | **Python**                                                                                                                                  |
+| 01. | [PY4E - Python for Everybody](https://www.py4e.com)                                                                                         |
+| 02. | [Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?app=desktop&v=rfscVS0vtbw)                              |
 
 # YouTube tutorials
 
